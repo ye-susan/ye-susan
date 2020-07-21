@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!🤓 I'm a full-stack developer currently volunteering at Hack for LA (where I write documentation and assist with adding new features to our site).
+
 
 <!--
 **ye-susan/ye-susan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
