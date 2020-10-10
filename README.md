@@ -1,8 +1,8 @@
-### Hi there! </🤓>
+<!-- ### Hi there! </🤓>
 #### I'm a full-stack developer currently volunteering at Hack for LA (where I'm collaborating with other engineers and programming new features 🛠). 
 I'm always looking to learn about new _(tech/productivity hacks/relaxing shows/hikes/books/cultures)_ and looking forward to meeting fellow engineers 👯 - connect with me on [LinkedIn](https://www.linkedin.com/in/susan-ye-dev/)! 
 <br>Feel free to reach out to me if you're also interested in getting involved in Hack for LA/civic tech. 
-
+-->
 <!--
 **ye-susan/ye-susan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
